@@ -1,0 +1,2 @@
+Da se implementira filitrirane na input funkciqta chrez
+http://phpro.org/tutorials/Filtering-Data-with-PHP.html
