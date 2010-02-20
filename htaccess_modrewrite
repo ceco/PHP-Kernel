@@ -1,9 +1,0 @@
-RewriteEngine On
-
-#
-# Rules
-#
-RewriteRule   ^index.htm$  index.php [L]
-RewriteRule   image_(.+).gif$  index.php?module=images&content_only=1&id=$1 [L]
-RewriteRule   ^country_(.+).htm$  index.php?module=country&country=$1 [L]
-RewriteRule   ^/en/(.*)  index.php?lang=en&$1 [L]

@@ -1,9 +1,0 @@
-# Module lang file
-
-[en]
-main_test = Main test<br />
-[bg]
-
-[de]
-
-# End lang file
