@@ -1,0 +1,9 @@
+# Module lang file
+
+[en]
+
+[bg]
+
+[de]
+
+# End lang file

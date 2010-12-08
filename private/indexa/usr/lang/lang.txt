@@ -1,0 +1,21 @@
+# Module lang file
+
+[en]
+acl             = Permissions
+description_acl = Access control list
+contacts        = Contacts
+description_contacts = Manage contacts
+custom          = Custom page
+description_custom = Create custom page
+index           = Home page
+description_index = Index page
+test            = Test page
+description_test = Test page
+skeleton        = Skeleton
+description_skeleton = N/A
+
+[bg]
+
+[de]
+
+# End lang file
